@@ -40,3 +40,14 @@ places to ask questions about the Go language.
 
 [rf]: https://reneefrench.blogspot.com/
 [cc3-by]: https://creativecommons.org/licenses/by/3.0/
+
+## Decentralised Fork
+
+In order to defend against a new form of code censorship and oppression of 
+free speech, this fork is specifically focused on one purpose, and otherwise 
+will keep to par with the mainline. It enables the use of native IPFS source 
+code resolution, which means the source code cannot be taken down by the 
+jurisdiction of the hosting service and/or DNS registration linked to it, 
+thus stranding the repository and stopping developers from using it.
+
+This repository itself will migrate to this system in the near future.
